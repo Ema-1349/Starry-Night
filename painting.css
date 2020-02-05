@@ -11,7 +11,7 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #d600ff;
+  color: #ff8100;
   background-color: white;
   text-decoration: underline;
 }
@@ -42,7 +42,7 @@ div {
 
 h1 {
  font-family: Molle, cursive;	
- text-shadow: 0px 5px 15px #000000, 0px -5x 15px #000000;
+ text-shadow: 0px -5px 20px #000000, 0px 5px 20px #000000;
  color: #ffb503;
  text-align: center;
  text-align: center;
@@ -85,11 +85,9 @@ ul {
 }
 
 img {
-	width: 533px;
-	height: 300px;
+	width: 410px;
+	height: 380zpx;
 	box-shadow: 10px 10px 20px white, -10px -10px 20px white;
 	border: 3px solid white;
 	filter: blur(2px);
-	margin-left: 115px;
-	margin-right: 115px;
 }
